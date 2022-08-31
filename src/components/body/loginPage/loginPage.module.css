@@ -1,0 +1,51 @@
+.form{
+    width: 30%;
+    margin: auto;
+    margin-top: 80px;
+    background-color: #fff;
+    height: 450px;
+    padding: 20px;
+    font-size: 10px;
+    
+}
+.google{
+    width: 100%;
+}
+/* .eye{
+   margin-left: -30px; 
+   margin-top: 5px;
+} */
+.input{
+   color: red;
+   
+}
+.googleIcon{
+    color: #000000;
+}
+.login{
+    width: 100%;
+}
+
+.forgot{
+
+color: rgb(0, 174, 255);
+font-size: 0.8rem;
+margin-left: 80px;
+cursor: pointer;
+}
+
+.dontHave{
+font-size: 0.8rem;
+margin-left: 80px;
+cursor: pointer;
+}
+.sign{
+    color: rgb(0, 174, 255);
+    font-size: 0.8rem;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.h2{
+   margin-left: 30%;
+}
