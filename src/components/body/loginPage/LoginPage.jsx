@@ -64,7 +64,7 @@ const handleSubmit=(values)=>{
 
          <br />
          <br />
-         <Button variant="success" className={styles.login} >Login</Button>
+         <Button type='submit' variant="success" className={styles.login} >Login</Button>
          <br />
           <span className={styles.forgot}> Forgot password ?</span>   <br />  
    

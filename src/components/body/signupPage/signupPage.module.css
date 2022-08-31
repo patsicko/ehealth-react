@@ -1,0 +1,34 @@
+.form{
+    height: 450px;
+    width: 300px;
+    margin: auto;
+    background-color: rgba(50, 215, 199,0.3);
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+   
+}
+.sign{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.btn{
+    width: 97%;
+}
+.google{
+    width: 97%;
+    background-color: #fff;
+
+}
+.input{
+color: red;
+}
+.eye{
+    color: black;
+    margin-top: -33px;
+    margin-left: 100px;
+    position: absolute;
+}

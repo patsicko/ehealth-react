@@ -1,11 +1,16 @@
 .form{
-    width: 30%;
+   
+
+    height: 500px;
+    width: 300px;
     margin: auto;
-    margin-top: 80px;
-    background-color: #fff;
-    height: 450px;
-    padding: 20px;
-    font-size: 10px;
+    background-color: rgba(50, 215, 199,0.3);
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
     
 }
 .google{
@@ -30,19 +35,19 @@
 
 color: rgb(0, 174, 255);
 font-size: 0.8rem;
-margin-left: 80px;
+margin-left: 20px;
 cursor: pointer;
 }
 
 .dontHave{
 font-size: 0.8rem;
-margin-left: 80px;
+margin-left: 20px;
 cursor: pointer;
 }
 .sign{
     color: rgb(0, 174, 255);
     font-size: 0.8rem;
-    margin-left: 100px;
+    margin-left: 20px;
     cursor: pointer;
 }
 
